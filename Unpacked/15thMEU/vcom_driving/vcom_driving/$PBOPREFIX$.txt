@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=vcom_driving
+Pbo Type is: Arma Addon
+Sha: '32E97EBC1999B1244842F414E7B6E69D9C9CA38F'
+//////</HEADER>//////

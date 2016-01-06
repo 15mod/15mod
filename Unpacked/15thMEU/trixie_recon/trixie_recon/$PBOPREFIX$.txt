@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=trixie_recon
+Pbo Type is: Arma Addon
+Sha: '1580FF7EB53034517C38D3D5DCAC6B9C0D91557D'
+//////</HEADER>//////

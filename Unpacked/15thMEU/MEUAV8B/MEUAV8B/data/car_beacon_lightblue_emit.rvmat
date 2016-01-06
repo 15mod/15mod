@@ -1,0 +1,22 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 4.88
+//Thu Jan 22 19:58:06 2015 : Source 'file' date Thu Jan 22 19:58:06 2015
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class Cha_AV8B : data\car_beacon_lightblue_emit.rvmat{
+class StageTI
+{
+	texture = "a3\data_f\default_vehicle_ti_ca.paa";
+};
+ambient[] = {0.07,0.99,0.89,1};
+diffuse[] = {0.07,0.99,0.89,1};
+forcedDiffuse[] = {0,0,0,0};
+emmisive[] = {7000,99000,89000,1};
+specular[] = {0,0,0,1};
+specularPower = 1;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";
+//};

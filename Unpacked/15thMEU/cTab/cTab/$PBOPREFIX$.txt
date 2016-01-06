@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=cTab
+Pbo Type is: Arma Addon
+Sha: '0578D4E8E67E7F0D46034F395DCC02995A33FDB6'
+//////</HEADER>//////

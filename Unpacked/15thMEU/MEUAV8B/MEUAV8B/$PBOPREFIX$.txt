@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=MEUAV8B
+Pbo Type is: Arma Addon
+Sha: 'CEF3E8BEEDEEAEDE44120C9EB4929E8FFC4C09E0'
+//////</HEADER>//////

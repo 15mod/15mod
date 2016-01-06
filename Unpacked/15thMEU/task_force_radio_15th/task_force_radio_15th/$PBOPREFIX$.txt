@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=task_force_radio_15th
+Pbo Type is: Arma Addon
+Sha: '20552158863EED91681C10B6F38312E37FBA0F10'
+//////</HEADER>//////

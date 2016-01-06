@@ -1,0 +1,6 @@
+///////<HEADER>///////
+prefix=JDG_mk29SeaSparrow
+Mikero=DePbo.dll
+Pbo Type is: Arma Addon
+Sha: '6A1FDF092E4B09940E05906C9B67C5CFE80E6C14'
+//////</HEADER>//////

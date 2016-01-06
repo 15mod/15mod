@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=MV22
+Pbo Type is: Arma Addon
+Sha: 'F6E46FDE1BD32B9BF3B2A68ACB68CAC4EBCDBEB5'
+//////</HEADER>//////

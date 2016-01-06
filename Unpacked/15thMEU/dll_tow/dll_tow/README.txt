@@ -1,0 +1,1 @@
+This is Rundll's towing script that was built into JDog's Nimitz, ported to an arma3 module by TeTeT.

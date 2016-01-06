@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=AH1Gunfighter
+Pbo Type is: Arma Addon
+Sha: 'F73236EA5C362D634F8A60BB2B1FCA79E67A4315'
+//////</HEADER>//////

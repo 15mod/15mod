@@ -1,0 +1,10 @@
+TODO
+
+shadow LODs MUST be remade/fixed because current ones have awful clipping and very low detail
+wreck is missing, damage rvmats are in place but it might use a proper wreck or damagehide selections
+internal glass when damaged appears barely different from normal glass, textures work regularly though
+inverse kinematics animations requires minor remodeling and proxy alignment
+check passenger/pilot animations -> cargo anims will be switched to uh60 ones when that is done
+interior lights -> find something suitable, collision lights clip through the model and appear on the exterior model too like halloween pumpkins
+roadway LOD has been disabled because it messes up the slingload function, do not re-enable without testing first
+altimeter isn't working correctly, for some reason in buldozer it works right, but in game it works the opposite way

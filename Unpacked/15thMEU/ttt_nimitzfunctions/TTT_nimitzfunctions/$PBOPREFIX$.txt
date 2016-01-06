@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=TTT_nimitzfunctions
+Pbo Type is: Arma Addon
+Sha: 'C96EDE10D78A48AA0997EFE4C467FCB0F4B1C26F'
+//////</HEADER>//////

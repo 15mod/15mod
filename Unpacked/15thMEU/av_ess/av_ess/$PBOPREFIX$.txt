@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=av_ess
+Pbo Type is: Arma Addon
+Sha: '107BB47A06E88E0535430328A4AA29ECA81621FA'
+//////</HEADER>//////

@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=aftp_t_wep_compass
+Pbo Type is: Arma Addon
+Sha: 'A74908A68BD1022FC4EA067315F79CE046903A3A'
+//////</HEADER>//////

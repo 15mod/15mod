@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=meu_lpd17
+Pbo Type is: Arma Addon
+Sha: 'EAF6DCC604AA75FB94BF9EA591B8EA64A3AFD7CE'
+//////</HEADER>//////

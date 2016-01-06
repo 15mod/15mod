@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=15thRHSFixes
+Pbo Type is: Arma Addon
+Sha: 'F1721AC1DA93BE106151531E1216386E9FB0BB65'
+//////</HEADER>//////

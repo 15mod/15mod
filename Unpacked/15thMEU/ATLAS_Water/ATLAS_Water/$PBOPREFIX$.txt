@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=ATLAS_Water
+Pbo Type is: Arma Addon
+Sha: '32B6F661B089B7DAD0D4209B95D30F7290EA9D4C'
+//////</HEADER>//////

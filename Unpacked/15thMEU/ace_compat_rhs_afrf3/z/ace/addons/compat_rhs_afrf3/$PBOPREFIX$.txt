@@ -1,0 +1,7 @@
+///////<HEADER>///////
+prefix=z\ace\addons\compat_rhs_afrf3
+Mikero=DePbo.dll
+version=0599b35f
+Pbo Type is: Arma Addon
+Sha: '00041B5AD389C495D2A02CBCEC009AC38D889349'
+//////</HEADER>//////

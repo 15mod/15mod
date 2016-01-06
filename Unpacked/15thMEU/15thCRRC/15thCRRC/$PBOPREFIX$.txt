@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=15thCRRC
+Pbo Type is: Arma Addon
+Sha: 'BF55B89CC85E87F07F4CD5CB406E9043F4FD7DE2'
+//////</HEADER>//////

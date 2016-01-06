@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=meu_blufor
+Pbo Type is: Arma Addon
+Sha: 'FB2CAB37F4F6E4CCE93E2D57DA3FD24A1E144D34'
+//////</HEADER>//////

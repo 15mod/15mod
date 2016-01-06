@@ -1,0 +1,4 @@
+///////<HEADER>///////
+prefix=trixie_backpacks
+Pbo Type is: Xbox Elite or Arma but missing checksum/sha (possibly a mission.pbo)
+//////</HEADER>//////

@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=JDG_carrier
+Pbo Type is: Arma Addon
+Sha: '25E83EF4FD6C4647F19E59FF83D6D0E6F28FF14F'
+//////</HEADER>//////

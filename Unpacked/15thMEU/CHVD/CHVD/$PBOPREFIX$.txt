@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=CHVD
+Pbo Type is: Arma Addon
+Sha: 'AFFFF026F82C96EB7DFAADBA9D3FB2EEEA8F5B93'
+//////</HEADER>//////

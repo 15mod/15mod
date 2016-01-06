@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=dll_tow
+Pbo Type is: Arma Addon
+Sha: '73523AE60121DF442C3498FE2AEF9D8DC24CFC5B'
+//////</HEADER>//////

@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=js_jc_fa18_squads
+Pbo Type is: Arma Addon
+Sha: '6B06CB084775928D01C14456AA34EE3830A53E7B'
+//////</HEADER>//////

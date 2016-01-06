@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=js_jc_fa18
+Pbo Type is: Arma Addon
+Sha: 'BC87E5CAD06E4401E260165B523E0FA9AEE95E85'
+//////</HEADER>//////

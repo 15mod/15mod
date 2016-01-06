@@ -1,0 +1,10 @@
+Density = 7840;
+rough = 0.100000;
+dust = 0;
+bulletPenetrability = 1;
+soundEnviron = "Empty";
+isWater = "false";
+friction = 0.700000;
+restitution = 0.300000;
+impact = "Hit_Metal";
+soundHit = "metal";

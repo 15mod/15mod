@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=aavb
+Pbo Type is: Arma Addon
+Sha: 'F517122C63403CC8DC6643555EF7A2B23D5655C8'
+//////</HEADER>//////

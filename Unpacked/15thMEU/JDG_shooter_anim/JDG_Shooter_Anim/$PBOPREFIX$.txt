@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=JDG_Shooter_Anim
+Pbo Type is: Arma Addon
+Sha: '58D9B6CCDBCA54FC576EA1C0678CDCC9FD79BC4D'
+//////</HEADER>//////

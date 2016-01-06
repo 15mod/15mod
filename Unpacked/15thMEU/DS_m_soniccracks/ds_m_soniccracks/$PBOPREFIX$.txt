@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=ds_m_soniccracks
+Pbo Type is: Arma Addon
+Sha: '54BAEAC2A2A2DDB7C5D4B60898B96A2443696409'
+//////</HEADER>//////

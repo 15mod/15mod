@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=ATLAS_Weapons
+Pbo Type is: Arma Addon
+Sha: '71988567566FFB9C51B2512874E2E9892E8E2C03'
+//////</HEADER>//////

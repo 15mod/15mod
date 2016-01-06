@@ -1,0 +1,22 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 5.24
+//Produced on Mon Nov 02 14:32:26 2015 : Created on Mon Nov 02 14:32:26 2015
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class JDG_mk29SeaSparrow : data\metal.bisurf{
+Density = 7800;
+Thickness = 11;
+rough = 0.1;
+dust = 0;
+bulletPenetrability = 200;
+bulletPenetrabilityWithThickness = 13;
+soundEnviron = "Empty";
+isWater = 0;
+friction = 0.7;
+restitution = 0.3;
+impact = "Hit_Metal";
+soundHit = "metal";
+//};

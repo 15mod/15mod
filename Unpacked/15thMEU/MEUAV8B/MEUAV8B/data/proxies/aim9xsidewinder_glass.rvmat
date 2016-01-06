@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 4.88
+//Thu Jan 22 19:58:06 2015 : Source 'file' date Thu Jan 22 19:58:06 2015
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class Cha_AV8B : data\proxies\aim9xsidewinder_glass.rvmat{
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,0};
+emmisive[] = {0,0,0,0};
+specular[] = {1,1,1,1};
+specularPower = 800;
+PixelShaderID = "Super";
+VertexShaderID = "Super";
+renderFlags[] = {"NoZWrite"};
+//};

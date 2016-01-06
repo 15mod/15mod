@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="ATLAS">
+	<Package name="ATLAS_Languagecfg">
+		<Container name="VehicleClassesNames">
+			<Key ID="STR_ATLAS_CFG_STATIC_SHIPS">
+				<Original>Static Ships</Original>
+				<English>Static Ships</English>
+				<Czech>statické Lodě</Czech>
+				<French>navires statiques</French>
+				<German>statische Schiffe</German>
+				<Italian>Navi Statiche</Italian>
+				<Polish>statyczne Statki</Polish>
+				<Portuguese>Navios estáticos</Portuguese>
+				<Spanish>Naves estáticas</Spanish>
+				<Russian>Статические судно</Russian>
+			</Key>
+		</Container>
+		<Container name="VehicleNames">
+			<Key ID="STR_ATLAS_CFG_LHD">
+				<Original>LHD</Original>
+				<English>LHD</English>
+				<Czech>LHD</Czech>
+				<French>LHD</French>
+				<German>LHD</German>
+				<Italian>LHD</Italian>
+				<Polish>LHD</Polish>
+				<Portuguese>LHD</Portuguese>
+				<Spanish>LHD</Spanish>
+				<Russian>LHD</Russian>
+			</Key>
+		</Container>
+		<Container name="ElevatorActions">
+			<Key ID="STR_ATLAS_CFG_RAISEELEV">
+				<Original>Raise Elevator</Original>
+				<English>Raise Elevator</English>
+				<Czech>zvýšit Výtah</Czech>
+				<French>Levez ascenseur</French>
+				<German>heben Aufzug</German>
+				<Italian>Sollevare Ascensore</Italian>
+				<Polish>podniesc Winda</Polish>
+				<Portuguese>Levante Elevador</Portuguese>
+				<Spanish>Levante Ascensor</Spanish>
+				<Russian>Поднимите лифт</Russian>
+			</Key>
+			<Key ID="STR_ATLAS_CFG_LOWERELEV">
+				<Original>Lower Elevator</Original>
+				<English>Lower Elevator</English>
+				<Czech>Dolní Výtah</Czech>
+				<French>Basse ascenseur</French>
+				<German>Nieder Aufzug</German>
+				<Italian>Abbassare Ascensore</Italian>
+				<Polish>Dolna Winda</Polish>
+				<Portuguese>Lower Elevador</Portuguese>
+				<Spanish>Baja Ascensor</Spanish>
+				<Russian>Нижняя Лифт</Russian>			
+			</Key>
+			<Key ID="STR_ATLAS_CFG_CALLELEV">
+				<Original>Call Elevator</Original>
+				<English>Call Elevator</English>
+				<Czech>zavolejte Výtah</Czech>
+				<French>appelez ascenseur</French>
+				<German>rufen Aufzug</German>
+				<Italian>Chiama Ascensore</Italian>
+				<Polish>zadzwoń Winda</Polish>
+				<Portuguese>Chame Elevador</Portuguese>
+				<Spanish>Llame Ascensor</Spanish>
+				<Russian>Позвоните лифт</Russian>			
+			</Key>
+		</Container>
+		<Container name="ShipActions">
+			<Key ID="STR_ATLAS_CFG_OPENWELLDECK">
+				<Original>Open Well Deck</Original>
+				<English>Open Well Deck</English>
+				<Czech>Otevřená No Deck</Czech>
+				<French>Open Deck bien</French>
+				<German>Nun offenen Deck</German>
+				<Italian>Aperto Beh Deck</Italian>
+				<Polish>Cóż Pokład otwarty</Polish>
+				<Portuguese>Abrir Bem Baralho</Portuguese>
+				<Spanish>Open Deck Bueno</Spanish>
+				<Russian>Открыть Ну Deck</Russian>			
+			</Key>
+			<Key ID="STR_ATLAS_CFG_CLOSEWELLDECK">
+				<Original>Close Well Deck</Original>
+				<English>Close Well Deck</English>
+				<Czech>Zavřít No Deck</Czech>
+				<French>Fermer Bien Pont</French>
+				<German>Schließen Nun Deck</German>
+				<Italian>Chiudi Well Deck</Italian>
+				<Polish>Zamknij Cóż Pokład</Polish>
+				<Portuguese>Fechar Bem Baralho</Portuguese>
+				<Spanish>Cerrar la cubierta Bueno</Spanish>
+				<Russian>Закрыть Ну Deck</Russian>			
+			</Key>
+		</Container>
+		<Container name="WinchActions">
+			<Key ID="STR_ATLAS_CFG_RAISEWINCH">
+				<Original>Raise Winch</Original>
+				<English>Raise Winch</English>
+				<Czech>zvýšit naviják</Czech>
+				<French>Levez Winch</French>
+				<German>heben Winch</German>
+				<Italian>Sollevare Winch</Italian>
+				<Polish>podnieść Winch</Polish>
+				<Portuguese>Levante Winch</Portuguese>
+				<Spanish>Levante Winch</Spanish>
+				<Russian>Поднимите лебедкой</Russian>	
+			</Key>
+			<Key ID="STR_ATLAS_CFG_LOWERWINCH">
+				<Original>Lower Winch</Original>
+				<English>Lower Winch</English>
+				<Czech>Dolní Winch</Czech>
+				<French>Basse Winch</French>
+				<German>Niederseilwinde</German>
+				<Italian>Lower Winch</Italian>
+				<Polish>Dolna Winch</Polish>
+				<Portuguese>Lower Winch</Portuguese>
+				<Spanish>Bajo Winch</Spanish>
+				<Russian>Нижняя Лебедка</Russian>	
+			</Key>
+			<Key ID="STR_ATLAS_CFG_DETACHFROMWINCH">
+				<Original>Detach From Winch</Original>
+				<English>Detach From Winch</English>
+				<Czech>Odpojit od Winch</Czech>
+				<French>Détacher de Winch</French>
+				<German>Lösen sich von Winch</German>
+				<Italian>Staccare da Winch</Italian>
+				<Polish>Odłączyć od Winch</Polish>
+				<Portuguese>Retire do Guincho</Portuguese>
+				<Spanish>Separe de Winch</Spanish>
+				<Russian>Снять с лебедкой</Russian>	
+			</Key>
+			<Key ID="STR_ATLAS_CFG_ATTACHTOWINCH">
+				<Original>Attach to Winch</Original>
+				<English>Attach to Winch</English>
+				<Czech>Připojit k Naviják</Czech>
+				<French>Joindre à treuil</French>
+				<German>Befestigen Sie Winde</German>
+				<Italian>Allega alla Winch</Italian>
+				<Polish>Dołączyć do Winch</Polish>
+				<Portuguese>Anexar ao Guincho</Portuguese>
+				<Spanish>Adjuntar a Winch</Spanish>
+				<Russian>Присоединить к Лебедка</Russian>	
+			</Key>
+			<Key ID="STR_ATLAS_CFG_EMERGENCYRELEASE">
+				<Original>Emergency Release</Original>
+				<English>Emergency Release</English>
+				<Czech>Nouzové uvolnění</Czech>
+				<French>Déverrouillage d'urgence</French>
+				<German>Notentriegelung</German>
+				<Italian>uscita di emergenza</Italian>
+				<Polish>Odblokowanie awaryjne</Polish>
+				<Portuguese>Lançamento de emergência</Portuguese>
+				<Spanish>de actuación de emergencia</Spanish>
+				<Russian>Аварийный выпуска</Russian>	
+			</Key>
+			<Key ID="STR_ATLAS_CFG_REQUISITIONBOAT">
+				<Original>Requisition Boat</Original>
+				<English>Requisition Boat</English>
+				<Czech>Požadavek Boat</Czech>
+				<French>demande Bateau</French>
+				<German>Anforderung Boot</German>
+				<Italian>Richiesta barca</Italian>
+				<Polish>rekwizycji Łódź</Polish>
+				<Portuguese>requisição de Barco</Portuguese>
+				<Spanish>requisa Barco</Spanish>
+				<Russian>Заявка Лодка</Russian>	
+			</Key>
+		</Container>
+	</Package>
+</Project>

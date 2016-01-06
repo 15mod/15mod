@@ -1,0 +1,6 @@
+///////<HEADER>///////
+prefix=inko_disposable_a3
+Mikero=DePbo.dll
+Pbo Type is: Arma Addon
+Sha: '449DA6364AD2AB6AA0BFAE67AF1CF3861C2B4BD5'
+//////</HEADER>//////

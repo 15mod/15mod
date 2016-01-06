@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=CH53
+Pbo Type is: Arma Addon
+Sha: '0FCFE1B9C530867AF307F09903DCAA79D0993FAF'
+//////</HEADER>//////

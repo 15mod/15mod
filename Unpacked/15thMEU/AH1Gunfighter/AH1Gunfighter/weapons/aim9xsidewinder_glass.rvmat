@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 3.94
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class air : Data\materialy\aim9xsidewinder_glass.rvmat{
+ambient[] = {0.242,0.242,0.242,1.0};
+diffuse[] = {0.242,0.242,0.242,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,1.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {0.733333,0.733333,0.733333,1.0};
+specularPower = 27.9;
+renderFlags[] = {"NoAlphaWrite"};
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";
+//};

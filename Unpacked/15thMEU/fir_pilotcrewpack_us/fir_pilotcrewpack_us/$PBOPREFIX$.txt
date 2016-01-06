@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=fir_pilotcrewpack_us
+Pbo Type is: Arma Addon
+Sha: 'B9C2A4E6292ED3B66887A3AB20D5397F82BE326F'
+//////</HEADER>//////

@@ -1,0 +1,20 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: Produced from mikero's Dos Tools Dll version 5.24
+//Produced on Mon Oct 19 14:23:14 2015 : Created on Mon Oct 19 14:23:14 2015
+//http://dev-heaven.net/projects/list_files/mikero-pbodll
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+//Class jdg_carrier : mats\glass-pass2.rvmat{
+surfaceInfo = "JDG_carrier\mats\glass_armored.bisurf";
+ambient[] = {1.0,1.0,1.0,1.0};
+diffuse[] = {1.0,1.0,1.0,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,0.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {0.0,0.0,0.0,0.0};
+specularPower = 0.0;
+renderFlags[] = {"NoColorWrite"};
+PixelShaderID = "AlphaShadow";
+VertexShaderID = "Basic";
+//};

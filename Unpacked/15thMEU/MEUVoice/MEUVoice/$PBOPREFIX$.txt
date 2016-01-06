@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=MEUVoice
+Pbo Type is: Arma Addon
+Sha: 'F74E51E7AF2D37DE23EA2524AACB6B162F5AE83F'
+//////</HEADER>//////

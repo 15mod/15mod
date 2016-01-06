@@ -1,0 +1,6 @@
+///////<HEADER>///////
+prefix=15thIntel
+Mikero=DePbo.dll
+Pbo Type is: Arma Addon
+Sha: '1B6D7D23574E37E088013CBAC7699601E38D5A15'
+//////</HEADER>//////

@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=mas_us_rifle
+Pbo Type is: Arma Addon
+Sha: 'A7724AE98025A76FA9B7D8ED63FFD562F8FFCA1E'
+//////</HEADER>//////

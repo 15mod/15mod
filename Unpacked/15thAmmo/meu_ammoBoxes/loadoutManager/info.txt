@@ -1,0 +1,52 @@
+// 15th Loadout Manager 2
+// Fight9
+// built on Riouken's framework
+
+
+Keys:
+Double Click on saved loadout - see saved items
+CTRL + Double Click on saved loadout - rename loadout
+SHFT + Double Click on saved loadout - make it a favorite
+DEL key won saved loadout - delete loadout
+CTRL + Click Save - quick save loadout with same name
+
+Fixes:
+- black images
+- random hint errors
+- RPT error on usage
+- loaded magazines not saving
+- some goggles not loading
+- assigned radios not loading
+- packed weapons attachments/mags not saving
+- invisible backpack items
+- loaded designator battery not saving
+- loaded ear buds not saving
+
+New:
+- view saved gear
+- rename loadouts
+- default loadouts
+- quick save
+- freakin favorites!
+- save TFAR freqs on assigned radio - loads on all radios
+- add manager to any non-15th box with ( ["init",[box]] spawn meu_fnc_manager )
+- can disable "gear in box" check ( box setVariable ["meu_boxRestrictions",false] )
+- better initialization
+- better organization
+- better optimisation
+- better error messages
+- super sexy GUI
+
+Notes:
+- Laser Designators will have loaded battery saved if you have any extras in your outfit containers
+- Packed weapons will have attachments/loaded mags saved but loaded seperately (the method of adding them was too hacky)
+- Radio presents are saved from assigned radio and backpack radio only (loaded on all radios, though)
+
+Known Issues:
+- Saved radio presents are not displayed in "Current Gear" right away after loading a loadout (takes TFAR a few seconds to convert your radio)
+
+Future Plans:
+- Option to remove default loadouts from scroll actions and to add favorite system to them as well 
+
+
+

@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=ATLAS_LanguageCfg
+Pbo Type is: Arma Addon
+Sha: '61C56DE6D0946C6F6B667343311D44BEB0731722'
+//////</HEADER>//////

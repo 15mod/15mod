@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=smgr
+Pbo Type is: Arma Addon
+Sha: 'DB21FB6E73EDD39015A1D84DCD2CB6BBBC87922B'
+//////</HEADER>//////

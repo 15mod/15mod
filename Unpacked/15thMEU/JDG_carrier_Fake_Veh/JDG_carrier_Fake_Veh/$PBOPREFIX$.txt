@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=JDG_carrier_Fake_Veh
+Pbo Type is: Arma Addon
+Sha: '217CC4B8423E2C16EFEA624243E2E3BCB3210127'
+//////</HEADER>//////

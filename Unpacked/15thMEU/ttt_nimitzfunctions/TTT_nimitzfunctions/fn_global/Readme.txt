@@ -1,0 +1,1 @@
+This module should give access to all Nimitz global variables, so they can be removed eventually.
